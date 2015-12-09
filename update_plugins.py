@@ -8,6 +8,12 @@ from os import path
 
 #--- Globals ----------------------------------------------
 PLUGINS = """
+vim-misc https://github.com/xolox/vim-misc
+vim-session https://github.com/xolox/vim-session
+vim-javascript https://github.com/pangloss/vim-javascript
+materialbox https://github.com/mkarmona/materialbox
+airline-onedark.vim https://github.com/joshdick/airline-onedark.vim
+onedark.vim https://github.com/joshdick/onedark.vim
 ack.vim https://github.com/mileszs/ack.vim
 ag.vim https://github.com/rking/ag.vim
 bufexplorer https://github.com/corntrace/bufexplorer
