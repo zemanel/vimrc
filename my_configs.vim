@@ -27,8 +27,8 @@ colorscheme materialbox
 set background=dark
 
 let g:airline_theme='onedark'
-let g:airline_powerline_fonts = 0
+let g:airline_powerline_fonts = 1 
 
 if has('gui_running')
-    set guifont=Source\ Code \Pro:h10
+    set guifont=Source\ Code\ Pro\ Light:h11
 endif
