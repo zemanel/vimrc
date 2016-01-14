@@ -8,6 +8,7 @@ from os import path
 
 #--- Globals ----------------------------------------------
 PLUGINS = """
+tagbar https://github.com/majutsushi/tagbar
 vim-misc https://github.com/xolox/vim-misc
 vim-session https://github.com/xolox/vim-session
 vim-javascript https://github.com/pangloss/vim-javascript
