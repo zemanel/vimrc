@@ -33,7 +33,7 @@ let g:airline_theme='onedark'
 let g:airline_powerline_fonts = 1
 
 if has('gui_running')
-    set guifont=Source\ Code\ Pro\ Light:h11
+    set guifont=Source\ Code\ Pro\ Light:h13
 endif
 
 nmap <F8> :TagbarToggle<CR>
